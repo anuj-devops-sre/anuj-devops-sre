@@ -17,3 +17,25 @@
 ## 🧑‍💻 About Me
 
 ```yaml
+name        : Anuj Kumar Dwivedi
+role        : DevOps Engineer / SRE
+company     : Manak Waste Management Pvt. Ltd. (Cashify)
+experience  : 5+ Years
+location    : Gurugram, India
+open_to     : Hybrid / Remote — DevOps / SRE / Platform Engineer
+
+proudest_achievement: >
+  Led complete ECS → EKS Kubernetes migration at Cashify
+  Zero downtime · Zero data loss · AI-assisted (Claude AI + ChatGPT)
+
+currently_pursuing:
+  - Kubernetes CKA
+  - Terraform Associate
+  - AWS DevOps Professional
+```
+
+---
+
+## 🚀 Key Achievement — ECS → EKS Migration
+
+> Independently planned and executed full production migration from AWS ECS to Kubernetes (EKS) at Cashify — zero downtime, zero data loss.
