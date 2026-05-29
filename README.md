@@ -94,14 +94,14 @@ Manual scaling              →        HPA + Cluster Autoscaler
 [![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black)logo=clickhouse![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black)logoColor=black)](https://github.com/anuj-devops-sre/Devops-Study/blob/main/databases/clickhouse.md)
 
 ### 💻 Scripting & OS
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)logo=python![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)logoColor=white)](https://github.com/anuj-devops-sre/Devops-Study/blob/main/scripting/python-for-devops.md)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)logo=gnubash![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)logoColor=white)](https://github.com/anuj-devops-sre/Devops-Study/blob/main/linux/day1-linux-basics.md)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)logo=linux![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)logoColor=black)](https://github.com/anuj-devops-sre/Devops-Study/blob/main/linux/day1-linux-basics.md)
 
 ### 🤖 AI Tools Used in Production
-![Claude AI](https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+[![Claude AI](https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge![Claude AI](https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)logo=anthropic![Claude AI](https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)logoColor=white)](https://github.com/anuj-devops-sre/Devops-Study/blob/main/ai-ops/ai-tools.md)
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)logo=openai![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)logoColor=white)](https://github.com/anuj-devops-sre/Devops-Study/blob/main/ai-ops/ai-tools.md)
+[![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)logo=cursor![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)logoColor=white)](https://github.com/anuj-devops-sre/Devops-Study/blob/main/ai-ops/ai-tools.md)
 
 ---
 
