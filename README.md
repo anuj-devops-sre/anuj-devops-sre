@@ -169,16 +169,18 @@ Manual scaling              →        HPA + Cluster Autoscaler
 
 ---
 
-## 📂 Repositories
+---
 
-| Repo | Description |
-|------|-------------|
-| [eks-cluster-terraform](https://github.com/anuj-devops-sre/Devops-Study/tree/main/terraform) | Production-grade EKS cluster — node groups, IRSA, VPC CNI, Cluster Autoscaler |
-| [jenkins-cicd-pipeline](https://github.com/anuj-devops-sre/Devops-Study/tree/main/ci-cd) | Multi-stage Jenkins pipelines — Checkout→Build→ECR Push→Deploy→Notify |
-| [grafana-prometheus-loki](https://github.com/anuj-devops-sre/Devops-Study/tree/main/monitoring) | Complete observability stack — dashboards, alerts, Slack routing |
-| [kubernetes-manifests](https://github.com/anuj-devops-sre/Devops-Study/tree/main/kubernetes) | K8s Deployments, Services, Ingress, RBAC, HPA templates |
-| [ansible-server-automation](https://github.com/anuj-devops-sre/Devops-Study/blob/main/ci-cd/cicd-advanced.md) | Ansible playbooks — Docker install, Nginx setup, app deployment |
-| [aws-cost-optimization](https://github.com/anuj-devops-sre/Devops-Study/tree/main/aws) | AWS cost optimisation scripts — right-sizing, tagging, Cost Explorer |
+## 🛠️ Specialized Project Showcase
+
+| Project | Tech Stack | Impact |
+|:---|:---|:---|
+| 🚀 **[EKS Cluster IaC](https://github.com/anuj-devops-sre/Devops-Study/tree/main/terraform)** | `Terraform` `AWS EKS` `VPC` | Production-ready cluster with IRSA and Auto-scaling. |
+| 🔄 **[Jenkins CI/CD](https://github.com/anuj-devops-sre/Devops-Study/tree/main/ci-cd)** | `Jenkins` `Groovy` `Docker` | End-to-end automation from Code to EKS Deployment. |
+| 📈 **[Observability Stack](https://github.com/anuj-devops-sre/Devops-Study/tree/main/monitoring)** | `Prometheus` `Grafana` `Loki` | Real-time monitoring with pre-configured Slack alerts. |
+
+---
+
 
 ---
 
