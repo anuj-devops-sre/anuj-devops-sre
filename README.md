@@ -59,7 +59,7 @@ Manual scaling              →        HPA + Cluster Autoscaler
 ## 🛠️ Tech Stack
 
 ### ☁️ Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+[![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)logo=amazonaws![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)logoColor=white)](https://github.com/anuj-devops-sre/Devops-Study/blob/main/aws/README.md)
 ![EKS](https://img.shields.io/badge/EKS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![ECS](https://img.shields.io/badge/ECS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
