@@ -173,12 +173,12 @@ Manual scaling              →        HPA + Cluster Autoscaler
 
 | Repo | Description |
 |------|-------------|
-| [eks-cluster-terraform](https://github.com/anuj-devops-sre/eks-cluster-terraform) | Production-grade EKS cluster — node groups, IRSA, VPC CNI, Cluster Autoscaler |
-| [jenkins-cicd-pipeline](https://github.com/anuj-devops-sre/jenkins-cicd-pipeline) | Multi-stage Jenkins pipelines — Checkout→Build→ECR Push→Deploy→Notify |
-| [grafana-prometheus-loki](https://github.com/anuj-devops-sre/grafana-prometheus-loki) | Complete observability stack — dashboards, alerts, Slack routing |
-| [kubernetes-manifests](https://github.com/anuj-devops-sre/kubernetes-manifests) | K8s Deployments, Services, Ingress, RBAC, HPA templates |
-| [ansible-server-automation](https://github.com/anuj-devops-sre/ansible-server-automation) | Ansible playbooks — Docker install, Nginx setup, app deployment |
-| [aws-cost-optimization](https://github.com/anuj-devops-sre/aws-cost-optimization) | AWS cost optimisation scripts — right-sizing, tagging, Cost Explorer |
+| [eks-cluster-terraform](https://github.com/anuj-devops-sre/Devops-Study/tree/main/terraform) | Production-grade EKS cluster — node groups, IRSA, VPC CNI, Cluster Autoscaler |
+| [jenkins-cicd-pipeline](https://github.com/anuj-devops-sre/Devops-Study/tree/main/ci-cd) | Multi-stage Jenkins pipelines — Checkout→Build→ECR Push→Deploy→Notify |
+| [grafana-prometheus-loki](https://github.com/anuj-devops-sre/Devops-Study/tree/main/monitoring) | Complete observability stack — dashboards, alerts, Slack routing |
+| [kubernetes-manifests](https://github.com/anuj-devops-sre/Devops-Study/tree/main/kubernetes) | K8s Deployments, Services, Ingress, RBAC, HPA templates |
+| [ansible-server-automation](https://github.com/anuj-devops-sre/Devops-Study/blob/main/ci-cd/cicd-advanced.md) | Ansible playbooks — Docker install, Nginx setup, app deployment |
+| [aws-cost-optimization](https://github.com/anuj-devops-sre/Devops-Study/tree/main/aws) | AWS cost optimisation scripts — right-sizing, tagging, Cost Explorer |
 
 ---
 
