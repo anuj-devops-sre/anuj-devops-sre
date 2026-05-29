@@ -123,6 +123,12 @@ Manual scaling              →        HPA + Cluster Autoscaler
 
 | Project | Tech Stack | Impact |
 |:---|:---|:---|
+| ☸️ **[EKS Cluster IaC](https://github.com/anuj-devops-sre/Devops-Study/tree/main/terraform)** | `Terraform` `EKS` `IRSA` | Production-grade cluster automation with secure IAM roles and Karpenter. |
+| 🐳 **[3-Tier App Deployment](https://github.com/anuj-devops-sre/Devops-Study/tree/main/projects/01-docker-3tier-app)** | `Docker` `Nginx` `PostgreSQL` | Highly available 3-tier architecture with containerized frontend and backend. |
+| 📜 **[Centralized Logging](https://github.com/anuj-devops-sre/Devops-Study/tree/main/projects/02-cloudwatch-to-elk-fluentd)** | `Fluentd` `CloudWatch` `ELK` | Shipping AWS logs to ELK via Fluentd for unified troubleshooting and cost saving. |
+| 📈 **[Modern LGTM Stack](https://github.com/anuj-devops-sre/Devops-Study/tree/main/projects/03-modern-observability-alloy-stack)** | `Grafana Alloy` `Loki` `Prometheus` | Advanced observability using Grafana Alloy as a unified agent for metrics and logs. |
+
+---
 | 🚀 **[EKS Cluster IaC](https://github.com/anuj-devops-sre/Devops-Study/tree/main/terraform)** | `Terraform` `AWS EKS` `VPC` | Production-ready cluster with IRSA and Auto-scaling. |
 | 🔄 **[Jenkins CI/CD](https://github.com/anuj-devops-sre/Devops-Study/tree/main/ci-cd)** | `Jenkins` `Groovy` `Docker` | End-to-end automation from Code to EKS Deployment. |
 | 📈 **[Observability Stack](https://github.com/anuj-devops-sre/Devops-Study/tree/main/monitoring)** | `Prometheus` `Grafana` `Loki` | Real-time monitoring with pre-configured Slack alerts. |
