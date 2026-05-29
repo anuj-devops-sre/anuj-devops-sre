@@ -152,7 +152,8 @@ Manual scaling              →        HPA + Cluster Autoscaler
 
 ```
 ✅ SQL Database Certification    — Simplilearn
-✅ Advanced Java Certificate     — RCPL India
+✅ Advanced Java Certificate
+✅ Agile Principles & Methodologies — Skillsoft     — RCPL India
 🔄 Terraform Associate           — In Progress
 🔄 Kubernetes CKA                — In Progress
 🔄 AWS DevOps Professional       — In Progress
