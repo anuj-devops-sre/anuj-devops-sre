@@ -134,7 +134,7 @@ Manual scaling              →        HPA + Cluster Autoscaler
 ## 💼 Experience
 
 **🏢 Cashify (Manak Waste Management Pvt. Ltd.) — Feb 2022 → Present**
-`Senior Application Support Engineer (L3) | DevOps`
+`Platform Engineer | Senior L3 Support`
 - ECS→EKS Migration · Jenkins CI/CD · Terraform · Grafana+Prometheus+Loki · 99.9%+ uptime
 - Automated 30%+ DevOps tasks · AWS cost optimisation · VPC design · Rancher multi-cluster mgmt
 
