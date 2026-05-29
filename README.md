@@ -143,21 +143,23 @@ Manual scaling              →        HPA + Cluster Autoscaler
 
 ## 💼 Experience
 
-**🏢 Cashify (Manak Waste Management Pvt. Ltd.) — Feb 2022 → Present**
-`Platform Engineer | Senior L3 Support`
-- ECS→EKS Migration (Zero Downtime) · Karpenter & Graviton4 · New Relic & CubeAPM · 99.9%+ uptime
-- 💰 **Cost Optimization**: Implemented **Karpenter** & **Graviton4**, reducing AWS compute costs by **25%**.
-- 📉 **Observability**: Optimized Prometheus/Alertmanager rules, reducing alert noise by **50%**.
-- 🏗️ **IaC**: Standardized multi-environment deployments using **Terraform Modules** & **Helm Charts**.
-- 🚀 **Automation**: Automated 30%+ repetitive tasks via Python/Bash, saving 5+ man-hours/week.
+### **🏢 Cashify (Manak Waste Management Pvt. Ltd.)** | Feb 2022 – Present
+**Platform Engineer | Senior L3 Support**
+- 🚀 **ECS to EKS Migration**: Led a zero-downtime production migration; implemented **Karpenter** \& **AWS Graviton4** for high performance.
+- 💰 **Cost Optimization**: Reduced monthly compute costs by **25%** through intelligent node provisioning and spot instance strategies.
+- 📉 **Observability**: Optimized **Prometheus \& Alertmanager** rules, reducing alert noise by **50%** and improving on-call quality.
+- 🏗️ **IaC Mastery**: Standardized multi-environment deployments using **Terraform Modules** and **Helm Charts**.
 
-**🏢 Mosaik Analytics Pvt. Ltd. — Jul 2020 → Jan 2022**
-`Associate – Support & Operations`
-- Docker · GoCD pipelines · Airflow DAGs · PostgreSQL · MongoDB · Oracle
+### **🏢 Mosaik Analytics Pvt. Ltd.** | Jul 2020 – Jan 2022
+**Associate – Support & Operations**
+- 🐳 **Container Operations**: Orchestrated application workloads using **Docker** and managed **PostgreSQL \& MongoDB** environments.
+- 🔄 **Pipeline Management**: Maintained CI/CD flows with **GoCD** and managed data workflows using **Airflow DAGs**.
+- 🛠️ **System Support**: Handled L2 support and database administration, ensuring high availability of analytics platforms.
 
-**🏢 Relyon Softech Pvt. Ltd. — Jul 2019 → May 2020**
-`Technical Support Engineer & DBA`
-- L1/L2 Support · Database Administration · Backup & Recovery
+### **🏢 Relyon Softech Pvt. Ltd.** | Jul 2019 – May 2020
+**Technical Support Engineer \& DBA**
+- 🗄️ **Database Admin**: Managed end-to-end DB operations including **Backup \& Recovery** and query optimization.
+- 🛡️ **L1/L2 Support**: Provided remote technical assistance and software configurations for client environments.
 
 ---
 
