@@ -16,23 +16,6 @@
 
 ## 🧑‍💻 About Me
 
-```yaml
-name        : Anuj Kumar Dwivedi
-role        : DevOps Engineer / SRE
-company     : Manak Waste Management Pvt. Ltd. (Cashify)
-experience  : 5+ Years
-location    : Gurugram, India
-open_to     : Hybrid / Remote — DevOps / SRE / Platform Engineer
-
-proudest_achievement: >
-  Led complete ECS → EKS Kubernetes migration at Cashify
-  Zero downtime · Zero data loss · AI-assisted (Claude AI + ChatGPT)
-
-currently_pursuing:
-  - Kubernetes CKA
-  - Terraform Associate
-  - AWS DevOps Professional
-```
 
 ---
 
@@ -40,19 +23,6 @@ currently_pursuing:
 
 > Independently planned and executed full production migration from AWS ECS to Kubernetes (EKS) at Cashify — zero downtime, zero data loss.
 
-```
-AWS ECS (old)               →        AWS EKS (new)
-─────────────                        ─────────────
-Task Definitions            →        K8s Deployments + Helm Charts
-ECS Services                →        Kubernetes Services + Ingress
-ECS Task IAM Roles          →        IRSA (IAM Roles for Service Accounts)
-ALB Target Groups           →        NGINX Ingress Controller
-Manual scaling              →        HPA + Cluster Autoscaler
-                                     ─────────────
-                                     ✅ Zero Downtime
-                                     ✅ Zero Data Loss
-                                     ✅ AI-Assisted (Claude AI + ChatGPT)
-```
 
 ---
 
@@ -150,14 +120,6 @@ Manual scaling              →        HPA + Cluster Autoscaler
 
 ## 📜 Certifications
 
-```
-✅ SQL Database Certification    — Simplilearn
-✅ Advanced Java Certificate
-✅ Agile Principles & Methodologies — Skillsoft     — RCPL India
-🔄 Terraform Associate           — In Progress
-🔄 Kubernetes CKA                — In Progress
-🔄 AWS DevOps Professional       — In Progress
-```
 
 ---
 
@@ -189,15 +151,7 @@ Manual scaling              →        HPA + Cluster Autoscaler
 
 ```
 "Infrastructure as Code. Automation First. Zero Downtime."
-
-### 🤝 Connect & Support
-
-[![Follow on GitHub](https://img.shields.io/github/followers/anuj-devops-sre?label=Follow%20%40anuj-devops-sre&style=for-the-badge&color=24292e)](https://github.com/anuj-devops-sre)
-[![Star Devops-Study](https://img.shields.io/badge/Star%20my%20Repo-⭐-yellow?style=for-the-badge)](https://github.com/anuj-devops-sre/Devops-Study)
-
-
 ```
-
 ⭐ **Star my repos if you find them useful!**
 
 📫 **anujdwivedi13194@gmail.com** · 📱 **+91-8052295312** · 📍 **Gurugram, India**
