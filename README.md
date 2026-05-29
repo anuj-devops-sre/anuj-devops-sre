@@ -146,7 +146,10 @@ Manual scaling              →        HPA + Cluster Autoscaler
 **🏢 Cashify (Manak Waste Management Pvt. Ltd.) — Feb 2022 → Present**
 `Platform Engineer | Senior L3 Support`
 - ECS→EKS Migration (Zero Downtime) · Karpenter & Graviton4 · New Relic & CubeAPM · 99.9%+ uptime
-- Automated 30%+ DevOps tasks · AWS cost optimisation · VPC design · Rancher multi-cluster mgmt
+- 💰 **Cost Optimization**: Implemented **Karpenter** & **Graviton4**, reducing AWS compute costs by **25%**.
+- 📉 **Observability**: Optimized Prometheus/Alertmanager rules, reducing alert noise by **50%**.
+- 🏗️ **IaC**: Standardized multi-environment deployments using **Terraform Modules** & **Helm Charts**.
+- 🚀 **Automation**: Automated 30%+ repetitive tasks via Python/Bash, saving 5+ man-hours/week.
 
 **🏢 Mosaik Analytics Pvt. Ltd. — Jul 2020 → Jan 2022**
 `Associate – Support & Operations`
