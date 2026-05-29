@@ -109,9 +109,9 @@ Manual scaling              →        HPA + Cluster Autoscaler
 
 <div align="center">
 
-![Anuj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anuj-devops-sre&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Anuj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anuj-devops-sre&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuj-devops-sre&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=anuj-devops-sre&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anuj-devops-sre&theme=tokyonight&hide_border=true)
 
