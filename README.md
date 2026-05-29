@@ -60,23 +60,23 @@ Manual scaling              →        HPA + Cluster Autoscaler
 
 ### ☁️ Cloud & Infrastructure
 [![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)logo=amazonaws![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)logoColor=white)](https://github.com/anuj-devops-sre/Devops-Study/blob/main/aws/README.md)
-![EKS](https://img.shields.io/badge/EKS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![ECS](https://img.shields.io/badge/ECS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![RDS](https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonaws&logoColor=white)
-![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white)
+[![EKS](https://img.shields.io/badge/EKS-FF9900?style=for-the-badge![EKS](https://img.shields.io/badge/EKS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)logo=amazonaws![EKS](https://img.shields.io/badge/EKS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)logoColor=white)](https://github.com/anuj-devops-sre/Devops-Study/blob/main/kubernetes/kubernats.md)
+[![ECS](https://img.shields.io/badge/ECS-FF9900?style=for-the-badge![ECS](https://img.shields.io/badge/ECS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)logo=amazonaws![ECS](https://img.shields.io/badge/ECS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)logoColor=white)](https://github.com/anuj-devops-sre/Devops-Study/blob/main/aws/aws-advanced.md)
+[![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)logo=amazonaws![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)logoColor=white)](https://github.com/anuj-devops-sre/Devops-Study/blob/main/aws/README.md)
+[![RDS](https://img.shields.io/badge/RDS-527FFF?style=for-the-badge![RDS](https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonaws&logoColor=white)logo=amazonaws![RDS](https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonaws&logoColor=white)logoColor=white)](https://github.com/anuj-devops-sre/Devops-Study/blob/main/aws/aws-advanced.md)
+[![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white)logo=amazonaws![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white)logoColor=white)](https://github.com/anuj-devops-sre/Devops-Study/blob/main/aws/README.md)
 
 ### 🐳 Containers & Orchestration
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
-![Rancher](https://img.shields.io/badge/Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=white)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)logo=kubernetes![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)logoColor=white)](https://github.com/anuj-devops-sre/Devops-Study/blob/main/kubernetes/kubernats.md)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)logo=docker![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)logoColor=white)](https://github.com/anuj-devops-sre/Devops-Study/blob/main/docker/docker.md)
+[![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)logo=helm![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)logoColor=white)](https://github.com/anuj-devops-sre/Devops-Study/blob/main/kubernetes/helm-rancher.md)
+[![Rancher](https://img.shields.io/badge/Rancher-0075A8?style=for-the-badge![Rancher](https://img.shields.io/badge/Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=white)logo=rancher![Rancher](https://img.shields.io/badge/Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=white)logoColor=white)](https://github.com/anuj-devops-sre/Devops-Study/blob/main/rancher/rancher-guide.md)
 
 ### ⚙️ CI/CD & IaC
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)logo=jenkins![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)logoColor=white)](https://github.com/anuj-devops-sre/Devops-Study/blob/main/ci-cd/jenkins.md)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)logo=githubactions![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)logoColor=white)](https://github.com/anuj-devops-sre/Devops-Study/blob/main/git/git.md)
+[![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)logo=terraform![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)logoColor=white)](https://github.com/anuj-devops-sre/Devops-Study/blob/main/terraform/00-basics/main.tf)
+[![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)logo=ansible![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)logoColor=white)](https://github.com/anuj-devops-sre/Devops-Study/blob/main/ci-cd/cicd-advanced.md)
 
 ### 📊 Monitoring & Observability
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
