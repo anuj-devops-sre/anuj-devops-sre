@@ -1,7 +1,6 @@
 <div align="center">
 
 ```text
-```text
 "Infrastructure as Code. Automation First. Zero Downtime."
 ```
 
