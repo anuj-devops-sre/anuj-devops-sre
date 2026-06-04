@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I'm Anuj Kumar Dwivedi
-### Platform Engineer · SRE · Cloud & Container Infrastructure · 5+ Years
+### Platform Engineer · SRE · Cloud & Container Infrastructure · 6+ Years
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anuj-kumar-dwivedi/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anujdwivedi13194@gmail.com)
